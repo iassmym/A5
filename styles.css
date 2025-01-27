@@ -1,5 +1,5 @@
 body {
-  
+
 }
   
   .container {
@@ -7,7 +7,7 @@ body {
     flex-wrap: wrap;
     gap: 10px;
     width: 90%;
-    max-width: 800px;
+    max-width: 80px;
     justify-content: center;
   }
   
